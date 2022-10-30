@@ -1,9 +1,10 @@
-package com.ibrahimdemir.moviesapplication
+package com.ibrahimdemir.moviesapplication.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.navigation.NavController
 import androidx.navigation.fragment.NavHostFragment
+import com.ibrahimdemir.moviesapplication.R
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
